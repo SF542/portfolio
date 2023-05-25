@@ -1,0 +1,39 @@
+*{margin: 0; padding: 0;}
+html, body {width: 100%; height: 100%;}
+
+.main
+{
+    background-color: rgb(255, 254, 171);
+    width: 100%;
+    height: 100%;
+}
+.form
+{
+    font-size: 20px;
+    width: 200px;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    text-align: center;
+}
+.form h1
+{
+    right: 12.5%;
+    position: relative;
+}
+.btnlogin, .btnsignup
+{
+    position: relative;
+    font-size: 18px;
+    background-color: rgb(159, 236, 156);
+    border-color: rgb(159, 236, 156);
+}
+.btnsignup
+{
+    left: 9%;
+}
+.btnlogin
+{
+    right: 9%;
+}
