@@ -1,0 +1,111 @@
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.g.resources
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.g.cs
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.baml
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\PlayGround.g.cs
+C:\Users\Админ\Desktop\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\PlayGround.baml
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\MainWindow.g.cs
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.g.cs
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\PlayGround.g.cs
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\App.g.cs
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\MainWindow.baml
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.baml
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\PlayGround.baml
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.g.resources
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\amv.21.FREE.001\Desktop\06.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\MainWindow.g.cs
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.g.cs
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\PlayGround.g.cs
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\App.g.cs
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\MainWindow.baml
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.baml
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\PlayGround.baml
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.g.resources
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Help.g.cs
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Help.baml
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Settings.g.cs
+D:\Files\ZUB\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Settings.baml
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Help.g.cs
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\MainWindow.g.cs
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.g.cs
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\PlayGround.g.cs
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Settings.g.cs
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\App.g.cs
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper_Content.g.cs
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Help.baml
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\MainWindow.baml
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.baml
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\PlayGround.baml
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Settings.baml
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.g.resources
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\amv.21.FREE.001\Desktop\27.04\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Help.g.cs
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\MainWindow.g.cs
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.g.cs
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\PlayGround.g.cs
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Settings.g.cs
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\App.g.cs
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Help.baml
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\MainWindow.baml
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\BeforePlayWindow.baml
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\PlayGround.baml
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Settings.baml
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.g.resources
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Files\ZUB\1 курс\2 семестр\Курсач\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
