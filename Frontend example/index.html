@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="zxx">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Главная</title>
+        <link href="./css/style.css" rel="stylesheet" type="text/css">
+		<script src="./js/jquery-3.6.1.min.js"></script>
+		<script src="./js/script.js"></script>
+    </head>
+    <body>
+        <main class="main">
+			<script>
+				setInterval(slideChange,4000,'slider1','right')
+			</script>
+            <div class="header-wrap">
+                <header class="header">
+					<span class="menuButton" onclick="MenuToggle();">Меню</span>
+                    <ul class="navMenu">
+                        <!-- <li>
+                            <a href="2.html">
+                                партнёрам
+                            </a>
+                        </li> -->
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="PriceList.html">
+                                прайс-лист
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Reviews.html">
+                                отзывы
+                            </a>
+                        </li>
+                        <li>
+                            <a href="AboutUs.html">
+                                о нас
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Search.html">
+                                поиск
+                            </a>
+                        </li>
+                    </ul>
+                </header>
+            </div>
+            <div class="SiteName">
+                <p class="logo"></p>
+                <h1></h1>
+                <p class="search_button">
+                    <a href="Search.html">
+                        <img src="./img/search.png">
+                    </a>
+                </p>
+                <form name="search" class="search_form" method="get">
+                    <input name="srch" class="search_form" type="text" value="" placeholder="Поиск...">
+                </form>
+            </div>
+            <div class="slider" id="slider1">
+                <div class="slider_slide slider_slide_inactive" style="background-image:url(./img/slider1.jpg)"></div>
+			    <div class="slider_slide slider_slide_inactive" style="background-image:url(./img/slider2.jpg)"></div>
+			    <div class="slider_slide slider_slide_active" style="background-image:url(./img/slider3.jpg)"></div>
+			    <span class="slider_button slider_button_left" onclick="slideChange('slider1','left');">&lt</span>
+			    <span class="slider_button slider_button_right" onclick="slideChange('slider1','right');">&gt</span>
+                <div class="sale">АКЦИЯ</div>
+            </div>
+            <div class="gallery">
+                <!-- <div class="galLine"> -->
+                    <div class="galItem">
+                        <div class="galImage" style="background-image:url(./img/gal1.jpg)"></div>
+                        <p class="itemName">
+                            Букет "Роза и Астильба"
+                        </p>
+                        <p class="itemPrice">
+                            <s>14 699 &#8381</s>
+                             7 199 &#8381
+                        </p>
+                        <div class="galText-wrap">
+                            <span class="galText" onclick="show_popup('.order_popup');">
+                                Заказать
+                            </span>
+                        </div>
+                    </div>
+                    <div class="galItem">
+                        <div class="galImage" style="background-image:url(./img/gal2.png)"></div>
+                        <p class="itemName">
+                            Букет "Солнце в Городе"
+                        </p>
+                        <p class="itemPrice">
+                            <s>6 299 &#8381</s>
+                             3 499 &#8381
+                        </p>
+                        <div class="galText-wrap">
+                            <span class="galText" onclick="show_popup('.order_popup');">
+                                Заказать
+                            </span>
+                        </div>
+                    </div>
+                    <div class="galItem">
+                        <div class="galImage" style="background-image:url(./img/gal3.png)"></div>
+                        <p class="itemName">
+                            15 Розово-Белых Альстромерий
+                        </p>
+                        <p class="itemPrice">
+                            <s>3 599 &#8381</s>
+                             2 399 &#8381
+                        </p>
+                        <div class="galText-wrap">
+                            <span class="galText" onclick="show_popup('.order_popup');">
+                                Заказать
+                            </span>
+                        </div>  
+                    </div>
+                <!-- </div> -->
+                <!-- <div class="galLine"> -->
+                    <div class="galItem">
+                        <div class="galImage" style="background-image:url(./img/gal4.png)"></div>
+                        <p class="itemName">
+                            11 Разноцветных Гипсофил
+                        </p>
+                        <p class="itemPrice">
+                            <s>6 099 &#8381</s>
+                             2 299 &#8381
+                        </p>
+                        <div class="galText-wrap">
+                            <span class="galText" onclick="show_popup('.order_popup');">
+                                Заказать
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="galItem">
+                        <div class="galImage" style="background-image:url(./img/gal8.jpg)"></div>
+                        <p class="itemName">
+                            25 Белых Роз в коробке сердце
+                        </p>
+                        <p class="itemPrice">
+                            <s>6 499 &#8381</s>
+                             2 399 &#8381
+                        </p>
+                        <div class="galText-wrap">
+                            <span class="galText" onclick="show_popup('.order_popup');">
+                                Заказать
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="galItem">
+                        <div class="galImage" style="background-image:url(./img/gal7.jpg)"></div>
+                        <p class="itemName">
+                            45 Корич. Пионовидных Роз
+                        </p>
+                        <p class="itemPrice">
+                            <s>26 799 &#8381</s>
+                             10 599 &#8381
+                        </p>
+                        <div class="galText-wrap">
+                            <span class="galText" onclick="show_popup('.order_popup');">
+                                Заказать
+                            </span>
+                        </div> 
+                    </div>
+                <!-- </div> -->
+            </div>
+            <div class="before-footer"></div>
+        </main>
+        <div class="footer-wrap">
+            <footer class="footer">
+                <a href="https://vk.com">
+                    <img src="./img/vk.png">
+                </a>
+                <a href="https://telegram.org">
+                    <img src="./img/tg.png">
+                </a>
+                <a href="https://www.youtube.com">
+                    <img src="./img/yt.png">
+                </a>
+                <br>
+                <br>
+                <p style="font-size: 17px;">
+                    Доставка цветов и подарков по Муриково и Шаховскому городскому округу
+                </p>
+                <br>
+                <p class="text1">
+                    © Все права защищены 2022
+                </p>
+                <div class="order_popup">
+                    <div class="popup_content">
+                        <p>
+                            Мы вам перезвоним
+                        </p>
+                        <form name="order" class="order_form" method="post">
+                            <br/>
+                            <input name="t1" id="t1" type="text" size="30" placeholder="Ваше имя">
+                            <br/>
+                            <br/>
+                            <input name="t2" id="t2" type="phone" size="30" placeholder="Номер телефона">
+                            <br/>
+                            <input type="submit" class="button">
+                        </form>
+                    </div>
+                    <span class="close_popup" onclick="close_popup('.order_popup');">X</span>
+                </div>
+                <span class="under_popup"></span>
+            </footer>
+        </div>  
+    </body>
+</html>

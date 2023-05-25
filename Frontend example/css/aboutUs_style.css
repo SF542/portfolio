@@ -1,0 +1,199 @@
+*{margin: 0; padding: 0;}
+html, body {width: 100%; height: 100%;}
+
+.main
+{
+    min-height: 100%;
+    left: 10%;
+    position: relative;
+    max-width: 90%;
+}
+.navMenu li
+{
+    padding-top: 0.5%;
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+.navMenu
+{
+    list-style:none;
+}
+.navMenu a
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.navMenu li:nth-child(4) ~ li
+{
+    display: none;
+}
+.menuButton
+{
+	width: 20px;
+	height: 20px;
+	display: none;
+	transform: translateX(-50%);
+    position: relative;
+    cursor: pointer;
+}
+.header-wrap
+{
+    min-height: 50px;
+    width: 115%;
+    left: -15%;
+    text-align: center;
+    position: relative;
+    background-color: #fcdae4;
+}
+.footer-wrap
+{
+    position: relative;
+    background-color: #fcdae4;
+    text-align: center;
+    width: 100%;
+    min-height: 40px;
+    margin-top: -40px;
+}
+.footer a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+.footer a img
+{
+    font-size: 0;
+    padding-top: 0.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 24px;
+    height: 24px;
+}
+.before-footer
+{
+   height: 60px;
+}
+.text1
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.before-footer
+{
+   height: 60px;
+}
+.middle
+{
+    left: -5.5%;
+    position: relative;
+}
+/*  */
+.content a, .content img, .content p
+{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0; 
+    padding: 0;
+    box-sizing: none;
+    border:none; 
+    border-spacing:0px;
+}
+.content a
+{
+    cursor: pointer;
+    text-align: none;
+    font-weight: none;
+    color: black;
+    font-size: 28px;
+    text-shadow: none;
+    font-style: none;
+    color: rgb(230, 81, 106);
+}
+.content h1
+{
+    text-align: center;
+}
+.content img 
+{
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 90%;
+    max-height: 600px;
+    position: relative;
+    background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.content p
+{
+    line-height:1.5;
+    font-weight: none;
+    font-size: 24px;
+    text-decoration: none;
+    text-align: none;
+    text-shadow: none;
+    color: black;
+    font-style: none;
+}
+.content table, th, td 
+{
+    border: 1px solid;
+}
+.content table
+{
+    margin-left: 5%;
+    display: block;
+    width: 90%;
+    overflow-x: scroll;
+    height: auto;
+}
+/*  */
+.addressImg
+{
+    padding: 20px;
+    height: 320px;
+    width: 320px;
+    display: block;
+    float: left;
+    position: relative;
+    background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.addressInfo
+{
+    font-size: 27px;
+}
+.ref
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 34px;
+}
+@media screen and (min-width:250px) and (max-width:1056px)
+{
+	.menuButton
+	{
+		display: inline-block;
+		padding-top: 0.5%;
+	}
+	.navMenu
+	{
+		margin: 5px;
+        display: none;
+	}
+    .navMenu li
+	{
+		margin: 5px;
+        display: block;
+	}
+}

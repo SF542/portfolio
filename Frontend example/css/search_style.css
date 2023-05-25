@@ -1,0 +1,123 @@
+*{margin: 0; padding: 0;}
+html, body {width: 100%; height: 100%;}
+
+.main
+{
+    min-height: 100%;
+    position: relative;
+    width: 60%;
+    left: 20%;
+}
+.navMenu li
+{
+    padding-top: 0.5%;
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+.navMenu
+{
+    list-style:none;
+}
+.navMenu a
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.navMenu li:nth-child(4) ~ li
+{
+    display: none;
+}
+.menuButton
+{
+	width: 20px;
+	height: 20px;
+	display: none;
+	transform: translateX(-50%);
+    position: relative;
+    cursor: pointer;
+}
+.header-wrap
+{
+    min-height: 50px;
+    width: 166.8%;
+    left: -33.5%;
+    text-align: center;
+    position: relative;
+    background-color: #fcdae4;
+}
+.footer-wrap
+{
+    position: relative;
+    background-color: #fcdae4;
+    text-align: center;
+    width: 100%;
+    min-height: 40px;
+    margin-top: -40px;
+}
+.footer a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+.footer a img
+{
+    font-size: 0;
+    padding-top: 0.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 24px;
+    height: 24px;
+}
+.before-footer
+{
+   height: 60px;
+}
+.text1
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.before-footer
+{
+   height: 60px;
+}
+.search_form
+{
+    display: inline-block;
+    position: relative;
+    height: 20px;
+    width: 100%;
+    margin-top: 2.5%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.Text
+{
+    display: block;
+    position: relative;
+    margin-top: 1%;
+}
+@media screen and (min-width:250px) and (max-width:1056px)
+{
+	.menuButton
+	{
+		display: inline-block;
+		padding-top: 0.5%;
+	}
+	.navMenu
+	{
+		margin: 5px;
+        display: none;
+	}
+    .navMenu li
+	{
+		margin: 5px;
+        display: block;
+	}
+}

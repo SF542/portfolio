@@ -1,0 +1,419 @@
+*{margin: 0; padding: 0;}
+html, body {width: 100%; height: 100%;}
+
+.main
+{
+    min-height: 100%;
+    position: relative;
+    /* background-color: aliceblue; */
+    /* background-color: rgb(242, 247, 231); */
+    width: 60%;
+    left: 20%;
+}
+.navMenu li
+{
+    padding-top: 0.5%;
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+.navMenu
+{
+    list-style:none;
+}
+.navMenu a
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.navMenu li:nth-child(4) ~ li
+{
+    display: none;
+}
+.menuButton
+{
+	width: 20px;
+	height: 20px;
+	display: none;
+	transform: translateX(-50%);
+    position: relative;
+    cursor: pointer;
+}
+@keyframes slideADD
+{
+	0%{opacity: 0;}
+	100%{opacity: 1;}
+}
+@keyframes slideREMOVE
+{
+	0%{opacity: 1;}
+	100%{opacity: 0;}
+}
+.slider
+{
+    display: inline-block;
+    left: 50%;
+	transform: translateX(-50%);
+	width: 600px;
+    max-width: 100%;
+	height: 400px;
+	position: relative;
+}
+.slider_slide
+{
+    max-width: 100%;
+	position: absolute;
+	width: 600px;
+	height: 400px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: block;
+}
+.slider_slide_active
+{
+    animation: slideADD 1.2s linear;
+	opacity: 1;
+	display: block;
+}
+.slider_slide_inactive
+{
+    animation: slideREMOVE 1.2s linear;
+	opacity: 0;
+	display: none;
+}
+.slider_button
+{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	font-size: 18px;
+	font-weight: bold;
+	top: 50%;
+    background-color: rgb(242, 247, 231);
+	transform: translateY(-50%);
+	opacity: 0.5;
+	text-align: center;
+	transition: opacity 0.25s;
+}
+.slider_button:hover
+{
+	opacity: 1;
+	cursor: pointer;
+}
+.slider_button_left
+{
+	left: 10px;
+}
+.slider_button_right
+{
+	right: 10px;
+}
+.header-wrap
+{
+    min-height: 50px;
+    width: 166.8%;
+    left: -33.5%;
+    text-align: center;
+    position: relative;
+    background-color: #fcdae4;
+}
+.logo
+{
+    width: 80px;
+    height: 80px;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    display: inline-block;
+    background-image: url(../img/logo2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.SiteName
+{
+    position: relative;
+    content: "";
+}
+.SiteName h1
+{
+    max-width: 100%;
+    bottom: 15%;
+    color: transparent;
+    background: linear-gradient(90deg, #E3535D, #ec8ca9);
+    background-clip: text;
+    -webkit-background-clip: text;
+    display: inline-block;
+    position: absolute;
+    font-size: 60px;
+}
+.SiteName h1:before
+{
+    content: "Цветы24";
+}
+.footer-wrap
+{
+    position: relative;
+    background-color: #fcdae4;
+    text-align: center;
+    width: 100%;
+    min-height: 40px;
+    /* margin-top: -40px; */
+}
+.footer a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+.footer a img
+{
+    font-size: 0;
+    padding-top: 0.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 24px;
+    height: 24px;
+}
+.before-footer
+{
+   height: 60px;
+}
+.search_form
+{
+    display: inline;
+    float: right;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+}
+.text1
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.itemName, .itemPrice
+{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    display: block;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    top: 100%;
+    min-width: 100%;
+}
+.itemPrice
+{
+    transform: translateX(-57%);
+    color: #c00c42;
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    top: 108%;
+}
+.itemPrice s
+{
+    color: black;
+}
+.sale
+{
+    position: absolute;
+    display: block;
+    color: white;
+    font-weight: bold;
+    text-shadow: black 0 0 15px;
+    font-size: 30px;
+    top: 80%;
+    left: 5%;
+}
+.gallery
+{
+    display: inline-block;
+    position: relative;
+    left: 10%;
+}
+/* .galLine
+{
+    font-size: 0;
+} */
+.galItem
+{
+	display: inline-block;
+	width: 280px;
+	height: 305px;
+	position: relative;
+    margin-top: 70px;
+    margin-right: 4.35%;
+    /* border: 1px solid #eee2e5; */
+}
+.galImage
+{
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.galText-wrap
+{
+    display: none;
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+	width: 50%;
+    height: 45px;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 45%;
+	background-color: pink;
+	z-index: 2;
+}
+.galText
+{
+    position: relative;
+    top: 25%;
+}
+.galItem:hover .galText-wrap, .galItem:hover .galButton-wrap
+{
+    display: block;
+    cursor: pointer;
+}
+.galItem:hover:after
+{
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ec8ca9;
+	content: '';
+	opacity: 0.5;
+	z-index: 1;
+}
+.galItem:after
+{
+    display: none;
+}
+.order_popup
+{
+    position: fixed;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+    background: #E3535D;
+    width: 350px;
+    height: 200px;
+    padding: 5px;
+    display: none;
+    overflow: auto;
+}
+.close_popup
+{
+    position: absolute;
+    font-size: 24px;
+    cursor: pointer;
+    top: 0;
+    right: 2%;   
+}
+.under_popup 
+{
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #333;
+    opacity: 0.5;
+    display: none;
+}
+.button
+{
+    left: 50%;
+    transform: translateX(-50%);
+    top: 60%;
+    height: 40px;
+    width: 160px;
+    position: absolute;
+    display: inline-block;
+    background-color:lawngreen;
+    border-radius: 10px;
+}
+.search_button
+{
+    display: none;
+    float: right;
+    margin-top: 5%;
+    position: relative;
+    left: 50px;
+}
+.search_button img
+{
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+@media screen and (min-width:250px) and (max-width:1056px)
+{
+    .gallery
+    {
+        left: 6.61%;
+    }
+	.menuButton
+	{
+		display: inline-block;
+		padding-top: 0.5%;
+	}
+	.navMenu
+	{
+		margin: 5px;
+        display: none;
+	}
+    .navMenu li
+	{
+		margin: 5px;
+        display: block;
+	}
+    .slider
+    {
+        display: none;
+    }
+    .SiteName h1:before
+    {
+        content: "Цв24";
+    }
+    .galItem
+    {
+    left: 45%;
+    transform: translateX(-50%);
+    }
+    @media screen and (max-width:672px)
+    {
+        .search_form
+        {
+            display: none;
+        }
+        .search_button
+        {
+            display: inline;
+        }
+    }
+}
